@@ -13,11 +13,10 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://space.bilibili.com/399143960/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/李浪浪丶"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/1111-24-75-41"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lll479964143&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
 ## Hi! Nice to meet you!
@@ -28,3 +27,5 @@
 - 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: m18032172179@163.com
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lll479964143)](https://github.com/ryo-ma/github-profile-trophy)
