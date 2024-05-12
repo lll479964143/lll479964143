@@ -1,1 +1,2 @@
+[![lll479964143's GitHub | Stats](https://stats.quine.sh/lll479964143/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lll479964143)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll479964143&show_icons=true&theme=radical)
